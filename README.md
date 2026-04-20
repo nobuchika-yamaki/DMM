@@ -1,1 +1,1 @@
-# DMM
+Resting-state fMRI data were analyzed to identify reproducible temporal differences between healthy controls and a depression group. Across multiple analysis settings, the depression group showed reduced temporal persistence and reduced low-frequency structure. Minimal dynamical modeling indicated that this pattern is better explained by reduced persistence than by increased noise, with recurrent-gain reduction providing the most coherent explanatory account within the tested framework.
